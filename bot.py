@@ -1,4 +1,5 @@
 import asyncio
+import base64
 import os
 from aiogram import Bot, Dispatcher, F
 from aiogram.filters import CommandStart
